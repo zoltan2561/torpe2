@@ -1,0 +1,14 @@
+hu\nye\game\torpedo\services\UIService.class
+hu\nye\game\torpedo\domain\Position.class
+hu\nye\game\torpedo\controllers\MainController.class
+hu\nye\game\torpedo\services\UserInput.class
+hu\nye\game\torpedo\domain\Field.class
+hu\nye\game\torpedo\interfaces\BoatInterface.class
+hu\nye\game\torpedo\main\Main.class
+hu\nye\game\torpedo\domain\Table.class
+hu\nye\game\torpedo\interfaces\GameSave.class
+hu\nye\game\torpedo\interfaces\MainServiceInterface.class
+hu\nye\game\torpedo\services\NewGame.class
+hu\nye\game\torpedo\interfaces\XmlGameSave.class
+hu\nye\game\torpedo\domain\Boat.class
+hu\nye\game\torpedo\services\MainService.class
